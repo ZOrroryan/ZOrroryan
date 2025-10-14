@@ -13,7 +13,7 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 
 | Skill | Associated Project |
 |-------|---------------------|
-| SIEM Implementation & Log Analysis | [Azure Honeypot & SIEM Lab](#azure-honeypot--siem-lab) |
+| SIEM Implementation & Log Analysis | <a href="https://github.com/ZOrroryan/Azure-Honeypot-SIEM-Lab">Azure-Honeypot-SIEM-Lab</a>|
 | Network Traffic Monitoring & Attack Detection | [Azure Honeypot & SIEM Lab](#azure-honeypot--siem-lab) |
 | Firewall Configuration & Endpoint Hardening | [Per Scholas Lab](#per-scholas-lab) |
 | Cloud & Serverless Functions | [L.A. Tech](#la-tech-project) |
@@ -62,6 +62,8 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 
 ## 🧪 Projects
 
+<a href="https://github.com/ZOrroryan/Azure-Honeypot-SIEM-Lab">Azure-Honeypot-SIEM-Lab</a>
+
 ### 🛰️ L.A. Tech Project  
 *Team Project | AWS · Networking · Python*  
 - Built an AWS Lambda function to monitor traffic, automate responses, and send alerts; presented to 50+ professionals.  
@@ -88,5 +90,4 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 
 ## 🌐 Connect With Me
 - 📧 **omarryan15@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/omar-ryan-64547a224/)  
-- 🧠 [GitHub](https://github.com/ZOrroryan)
+- 💼 [LinkedIn](https://www.linkedin.com/in/omar-ryan-64547a224/)
