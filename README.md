@@ -13,8 +13,10 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 
 | Skill | Associated Project |
 |-------|---------------------|
-| SIEM Implementation & Log Analysis | <a href="https://github.com/ZOrroryan/Azure-Honeypot-SIEM-Lab">Azure-Honeypot-SIEM-Lab</a>|
+| Honeypot Deployment & Configuration | <a href="https://github.com/ZOrroryan/Azure-Honeypot-SIEM-Lab">Azure-Honeypot-SIEM-Lab</a> |
+| SIEM Implementation & Log Analysis | <a href="https://github.com/ZOrroryan/Azure-Honeypot-SIEM-Lab">Azure-Honeypot-SIEM-Lab</a> |
 | Network Traffic Monitoring & Attack Detection | <a href="https://github.com/ZOrroryan/Azure-Honeypot-SIEM-Lab">Azure-Honeypot-SIEM-Lab</a> |
+
 
 ---
 
