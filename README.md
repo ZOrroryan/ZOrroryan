@@ -16,7 +16,10 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 | Honeypot Deployment & Configuration | <a href="https://github.com/ZOrroryan/Azure-Honeypot-SIEM-Lab">Azure-Honeypot-SIEM-Lab</a> |
 | SIEM Implementation & Log Analysis | <a href="https://github.com/ZOrroryan/Azure-Honeypot-SIEM-Lab">Azure-Honeypot-SIEM-Lab</a> |
 | Network Traffic Monitoring & Attack Detection | <a href="https://github.com/ZOrroryan/Azure-Honeypot-SIEM-Lab">Azure-Honeypot-SIEM-Lab</a> |
-
+| GUI Development with Tkinter | <a href="https://github.com/ZOrroryan/Cloud-Network-Python-Showcase">Green-Light-Game</a> |
+| Event-Driven Programming | <a href="https://github.com/ZOrroryan/Cloud-Network-Python-Showcase">Green-Light-Game</a> |
+| Randomized Logic Implementation | <a href="https://github.com/ZOrroryan/Cloud-Network-Python-Showcase">Green-Light-Game</a> |
+| Real-Time Feedback & User Interaction | <a href="https://github.com/ZOrroryan/Cloud-Network-Python-Showcase">Green-Light-Game</a> |
 
 ---
 
@@ -45,6 +48,7 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 ## 📜 Certifications
 
 - [![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-red?style=for-the-badge&logo=comptia)](https://www.comptia.org/certifications/cybersecurity-analyst)
+- [![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-red?style=for-the-badge&logo=comptia)](https://www.comptia.org/certifications/network)
 - [![Splunk Core Certified User](https://img.shields.io/badge/Splunk-Core%20Certified%20User-0A0A0A?style=for-the-badge&logo=splunk)](https://www.splunk.com/en_us/training.html)
 - [![Google Cybersecurity Certificate](https://img.shields.io/badge/Google-Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google)](https://grow.google/certificates/cybersecurity/)
 - [![Google IT Security](https://img.shields.io/badge/Google-IT%20Security-4285F4?style=for-the-badge&logo=google)](#)
