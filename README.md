@@ -12,14 +12,22 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 ## 🧠 Skills
 
 | Skill | Associated Project |
-|-------|---------------------|
+|-------|------------------|
 | Honeypot Deployment & Configuration | <a href="https://github.com/ZOrroryan/Azure-Honeypot-SIEM-Lab">Azure-Honeypot-SIEM-Lab</a> |
 | SIEM Implementation & Log Analysis | <a href="https://github.com/ZOrroryan/Azure-Honeypot-SIEM-Lab">Azure-Honeypot-SIEM-Lab</a> |
 | Network Traffic Monitoring & Attack Detection | <a href="https://github.com/ZOrroryan/Azure-Honeypot-SIEM-Lab">Azure-Honeypot-SIEM-Lab</a> |
-| GUI Development with Tkinter | <a href="https://github.com/ZOrroryan/Cloud-Network-Python-Showcase">Green-Light-Game</a> |
-| Event-Driven Programming | <a href="https://github.com/ZOrroryan/Cloud-Network-Python-Showcase">Green-Light-Game</a> |
-| Randomized Logic Implementation | <a href="https://github.com/ZOrroryan/Cloud-Network-Python-Showcase">Green-Light-Game</a> |
-| Real-Time Feedback & User Interaction | <a href="https://github.com/ZOrroryan/Cloud-Network-Python-Showcase">Green-Light-Game</a> |
+| GUI Development with Tkinter | <a href="https://github.com/ZOrroryan/Python_Game">Python_Game</a> |
+| Event-Driven Programming | <a href="https://github.com/ZOrroryan/Python_Game">Python_Game</a> |
+| Randomized Logic Implementation | <a href="https://github.com/ZOrroryan/Python_Game">Python_Game</a> |
+| Real-Time Feedback & User Interaction | <a href="https://github.com/ZOrroryan/Python_Game">Python_Game</a> |
+| Vulnerability Scanning & Assessment | <a href="https://github.com/ZOrroryan/tenable-azure-vm-security">Tenable Azure VM Security</a> |
+| STIG Compliance Implementation | <a href="https://github.com/ZOrroryan/tenable-azure-vm-security">Tenable Azure VM Security</a> |
+| Vulnerability Simulation & Exploitation | <a href="https://github.com/ZOrroryan/tenable-azure-vm-security">Tenable Azure VM Security</a> |
+| Remediation & Patch Management | <a href="https://github.com/ZOrroryan/tenable-azure-vm-security">Tenable Azure VM Security</a> |
+| Security Event Logging & Registry Hardening | <a href="https://github.com/ZOrroryan/tenable-azure-vm-security">Tenable Azure VM Security</a> |
+| Scan Result Analysis & Documentation | <a href="https://github.com/ZOrroryan/tenable-azure-vm-security">Tenable Azure VM Security</a> |
+| Trend Visualization & Reporting | <a href="https://github.com/ZOrroryan/tenable-azure-vm-security">Tenable Azure VM Security</a> |
+
 
 ---
 
@@ -30,17 +38,32 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 - Nmap  
 - Packet Tracer  
 - VirtualBox  
+- Azure Virtual Network (VNet)  
+- Network Security Groups (NSG)
 
 ### 💻 Endpoint
 - Windows Event Viewer  
 - Windows Firewall  
 - Linux (Ubuntu)  
+- PowerShell (scripting and automation)  
+- Tenable Agents  
 
 ### ☁️ SIEM & Cloud
 - Microsoft Sentinel  
 - Azure Log Analytics Workspace (LAW)  
 - KQL (Kusto Query Language)  
 - AWS Lambda  
+- Azure Virtual Machines  
+- Tenable Vulnerability Management (cloud console & scan engine)  
+
+### 🖥️ Development & Programming
+- Python (Tkinter, event-driven programming)  
+- Visual Studio Code  
+- Git & GitHub  
+
+### 📊 Reporting & Analysis
+- Microsoft Excel  
+- CSV & data visualization for remediation trends  
 
 ---
 
