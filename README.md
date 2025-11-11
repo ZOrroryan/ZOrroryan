@@ -21,7 +21,7 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 | Remediation & Patch Management | <a href="https://github.com/ZOrroryan/tenable-azure-vm-security">Tenable Azure VM Security</a> |
 | Active Directory Deployment & Configuration | <a href="https://github.com/ZOrroryan/Home-Lab-Running-Active-Directory">Home-Lab-Running-Active-Directory</a> |
 | PowerShell Automation & User Management | <a href="https://github.com/ZOrroryan/Home-Lab-Running-Active-Directory">Home-Lab-Running-Active-Directory</a> |
-| TPM 2.0 Installation & Configuration | <a href="https://github.com/ZOrroryan/TPM2-Installation-Windows11">TPM2-Installation-Windows11</a> |
+| TPM 2.0 Installation & Hardware Troubleshooting | <a href="https://github.com/ZOrroryan/TPM2-Installation-Windows11">TPM2-Installation-Windows11</a> |
 | Windows 11 Upgrade & Security Compliance | <a href="https://github.com/ZOrroryan/TPM2-Installation-Windows11">TPM2-Installation-Windows11</a> |
 ---
 
@@ -74,11 +74,15 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 
 ## 🧪 Projects
 
+## 🧪 Projects
+
+## 🧪 Projects
+
 - <a href="https://github.com/ZOrroryan/Azure-Honeypot-SIEM-Lab">Azure-Honeypot-SIEM-Lab</a>  
 - <a href="https://github.com/ZOrroryan/Python_Game">Python_Game</a>  
 - <a href="https://github.com/ZOrroryan/tenable-azure-vm-security">Tenable Azure VM Security</a>
-- <a href="https://github.com/ZOrroryan/Home-Lab-Running-Active-Directory">Home-Lab-Running-Active-Directory</a> – Built a full Active Directory environment in VirtualBox, including domain setup, DHCP, RRAS, and automated user creation.
-
+- <a href="https://github.com/ZOrroryan/Home-Lab-Running-Active-Directory">Home-Lab-Running-Active-Directory</a> 
+- <a href="https://github.com/ZOrroryan/TPM2-Installation-Windows11">TPM2-Installation-Windows11</a> 
 
 ## 🌐 Connect With Me
 - 📧 **omarryan15@gmail.com**  
