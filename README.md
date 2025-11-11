@@ -74,10 +74,6 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 
 ## 🧪 Projects
 
-## 🧪 Projects
-
-## 🧪 Projects
-
 - <a href="https://github.com/ZOrroryan/Azure-Honeypot-SIEM-Lab">Azure-Honeypot-SIEM-Lab</a>  
 - <a href="https://github.com/ZOrroryan/Python_Game">Python_Game</a>  
 - <a href="https://github.com/ZOrroryan/tenable-azure-vm-security">Tenable Azure VM Security</a>
