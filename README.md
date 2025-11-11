@@ -33,7 +33,9 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 - Packet Tracer  
 - VirtualBox  
 - Azure Virtual Network (VNet)  
-- Network Security Groups (NSG)
+- Network Security Groups (NSG)  
+- DHCP / NAT / RRAS configuration (Windows Server)  
+- Internal network setup for VMs  
 
 ### 💻 Endpoint
 - Windows Event Viewer  
@@ -41,6 +43,8 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 - Linux (Ubuntu)  
 - PowerShell (scripting and automation)  
 - Tenable Agents  
+- Windows 10 client administration  
+- BIOS / TPM configuration  
 
 ### ☁️ SIEM & Cloud
 - Microsoft Sentinel  
@@ -54,10 +58,12 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 - Python (Tkinter, event-driven programming)  
 - Visual Studio Code  
 - Git & GitHub  
+- PowerShell scripting for AD automation  
 
 ### 📊 Reporting & Analysis
 - Microsoft Excel  
 - CSV & data visualization for remediation trends  
+- Log analysis & monitoring (Windows / SIEM)
 
 ---
 
