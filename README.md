@@ -21,7 +21,8 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 | Remediation & Patch Management | <a href="https://github.com/ZOrroryan/tenable-azure-vm-security">Tenable Azure VM Security</a> |
 | Active Directory Deployment & Configuration | <a href="https://github.com/ZOrroryan/Home-Lab-Running-Active-Directory">Home-Lab-Running-Active-Directory</a> |
 | PowerShell Automation & User Management | <a href="https://github.com/ZOrroryan/Home-Lab-Running-Active-Directory">Home-Lab-Running-Active-Directory</a> |
-
+| TPM 2.0 Installation & Configuration | <a href="https://github.com/ZOrroryan/TPM2-Installation-Windows11">TPM2-Installation-Windows11</a> |
+| Windows 11 Upgrade & Security Compliance | <a href="https://github.com/ZOrroryan/TPM2-Installation-Windows11">TPM2-Installation-Windows11</a> |
 ---
 
 ## 🛠️ Tools
