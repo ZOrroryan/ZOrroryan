@@ -69,12 +69,13 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 
 ## 📜 Certifications
 
-- [![Microsoft Azure Fundamentals AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-blue?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-us/certifications/exams/az-900/)
-- [![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-red?style=for-the-badge&logo=comptia)](https://www.comptia.org/certifications/cybersecurity-analyst)
-- [![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-red?style=for-the-badge&logo=comptia)](https://www.comptia.org/certifications/network)
-- [![Splunk Core Certified User](https://img.shields.io/badge/Splunk-Core%20Certified%20User-0A0A0A?style=for-the-badge&logo=splunk)](https://www.splunk.com/en_us/training.html)
-- [![Google Cybersecurity Certificate](https://img.shields.io/badge/Google-Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google)](https://grow.google/certificates/cybersecurity/)
-- [![NDG Linux Essentials](https://img.shields.io/badge/NDG-Linux%20Essentials-2E8B57?style=for-the-badge&logo=linux)](#)
+- ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia)
+- ![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-red?style=for-the-badge&logo=comptia)
+- ![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-red?style=for-the-badge&logo=comptia)
+- ![Microsoft Azure Fundamentals AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-blue?style=for-the-badge&logo=microsoft)
+- ![Splunk Core Certified User](https://img.shields.io/badge/Splunk-Core%20Certified%20User-0A0A0A?style=for-the-badge&logo=splunk)
+- ![Google Cybersecurity Certificate](https://img.shields.io/badge/Google-Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google)
+- ![NDG Linux Essentials](https://img.shields.io/badge/NDG-Linux%20Essentials-2E8B57?style=for-the-badge&logo=linux)
 
 ---
 
