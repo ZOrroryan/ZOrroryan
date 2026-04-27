@@ -13,6 +13,9 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 
 | Skill | Associated Project |
 |-------|------------------|
+| Email Threat Detection & Analysis | <a href="https://github.com/ZOrroryan/email-threat-detector">Email Threat Detector</a> |
+| Python-Based Security Automation | <a href="https://github.com/ZOrroryan/email-threat-detector">Email Threat Detector</a> |
+| Phishing Detection & Classification | <a href="https://github.com/ZOrroryan/email-threat-detector">Email Threat Detector</a> |
 | Honeypot Deployment & Configuration | <a href="https://github.com/ZOrroryan/Azure-Honeypot-SIEM-Lab">Azure-Honeypot-SIEM-Lab</a> |
 | Network Traffic Monitoring & Attack Detection | <a href="https://github.com/ZOrroryan/Azure-Honeypot-SIEM-Lab">Azure-Honeypot-SIEM-Lab</a> |
 | GUI Development with Tkinter | <a href="https://github.com/ZOrroryan/Python_Game">Python_Game</a> |
@@ -81,6 +84,7 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 
 ## 🧪 Projects
 
+- <a href="https://github.com/ZOrroryan/email-threat-detector">Email Threat Detector</a>
 - <a href="https://github.com/ZOrroryan/Azure-Honeypot-SIEM-Lab">Azure-Honeypot-SIEM-Lab</a>  
 - <a href="https://github.com/ZOrroryan/Python_Game">Python_Game</a>  
 - <a href="https://github.com/ZOrroryan/tenable-azure-vm-security">Tenable Azure VM Security</a>
