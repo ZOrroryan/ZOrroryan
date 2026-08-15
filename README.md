@@ -33,6 +33,12 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 | Centralized Log Aggregation & SIEM Investigation (Splunk Enterprise) | <a href="https://github.com/ZOrroryan/cybersecurity-home-lab">Cybersecurity Home Lab</a> |
 | Frontend Web Development (HTML/CSS/JavaScript) | <a href="https://github.com/ZOrroryan/typingwithramo">TypeForge</a> |
 | CI/CD Deployment Automation (GitHub + Netlify) | <a href="https://github.com/ZOrroryan/typingwithramo">TypeForge</a> |
+| Cross-Platform Mobile Development (Flutter/Dart) | <a href="https://github.com/ZOrroryan/portfolio-showcase/tree/master/ilmquest">IlmQuest</a> |
+| Firebase Backend Architecture (Auth, Firestore, Cloud Functions) | <a href="https://github.com/ZOrroryan/portfolio-showcase/tree/master/ilmquest">IlmQuest</a> |
+| Custom Two-Factor Authentication Implementation | <a href="https://github.com/ZOrroryan/portfolio-showcase/tree/master/ilmquest">IlmQuest</a> |
+| Serverless Web Application Development (Netlify Functions) | <a href="https://github.com/ZOrroryan/portfolio-showcase/tree/master/ramoaim">RamoAim</a> |
+| Stripe Payment Integration | <a href="https://github.com/ZOrroryan/portfolio-showcase/tree/master/ramoaim">RamoAim</a> |
+| Desktop Application Packaging (Electron) | <a href="https://github.com/ZOrroryan/portfolio-showcase/tree/master/ramoaim">RamoAim</a> |
 ---
 
 ## 🛠️ Tools
@@ -74,7 +80,12 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 ### 🖥️ Development & Programming
 - Python (Tkinter, event-driven programming)  
 - HTML / CSS / JavaScript (vanilla, DOM manipulation)  
-- Netlify (CI/CD deployment)  
+- Netlify (CI/CD deployment, serverless Functions, Blobs)  
+- Flutter & Dart (cross-platform mobile development)  
+- Firebase (Auth, Firestore, Cloud Functions)  
+- Node.js  
+- Electron (desktop app packaging)  
+- Stripe (payment integration)  
 - Visual Studio Code  
 - Git & GitHub  
 - PowerShell scripting for AD automation  
@@ -108,6 +119,8 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 - <a href="https://github.com/ZOrroryan/TPM2-Installation-Windows11">TPM2-Installation-Windows11</a> 
 - <a href="https://github.com/ZOrroryan/cybersecurity-home-lab">Cybersecurity Home Lab</a> 
 - <a href="https://github.com/ZOrroryan/typingwithramo">TypeForge</a> — touch-typing curriculum, live at <a href="https://typingwithramo.netlify.app">typingwithramo.netlify.app</a>
+- <a href="https://github.com/ZOrroryan/portfolio-showcase/tree/master/ilmquest">IlmQuest</a> — Islamic learning & trivia app (Flutter/Firebase); full source is private, linked page has documentation and screenshots
+- <a href="https://github.com/ZOrroryan/portfolio-showcase/tree/master/ramoaim">RamoAim</a> — live aim-training web game at <a href="https://ram-aim.cybermar8.com">ram-aim.cybermar8.com</a>; full source is private, linked page has documentation and screenshots
 
 ## 🌐 Connect With Me
 - 📧 **omarryan15@gmail.com**  
