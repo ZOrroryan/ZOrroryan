@@ -2,6 +2,8 @@
 
 I'm a cybersecurity student with hands-on experience building and monitoring security environments. I enjoy analyzing logs, detecting attacks, and leveraging cloud & SIEM tools to understand real-world threats. My goal is to bring my technical skills and curiosity to a **Security Operations Center (SOC)** as a **Tier 1 Analyst**.
 
+**🌐 Portfolio: [cybermar8.com](https://cybermar8.com)** — featured writeups with screenshots and architecture breakdowns for the projects below. This repo is the deeper technical reference (full docs, configs, code); the site is the curated front door.
+
 ---
 
 ## 🎯 Objective
@@ -123,5 +125,6 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 - <a href="https://github.com/ZOrroryan/ramoaim-showcase">RamoAim</a> — live aim-training web game at <a href="https://ram-aim.cybermar8.com">ram-aim.cybermar8.com</a>; full source is private, linked page has documentation and screenshots
 
 ## 🌐 Connect With Me
+- 🖥️ [cybermar8.com](https://cybermar8.com) — portfolio site
 - 📧 **omarryan15@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/omar-ryan-64547a224/)
