@@ -31,6 +31,8 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 | Network Traffic Mirroring (SPAN) & Network Security Monitoring | <a href="https://github.com/ZOrroryan/cybersecurity-home-lab">Cybersecurity Home Lab</a> |
 | Intrusion Detection with Suricata & Zeek | <a href="https://github.com/ZOrroryan/cybersecurity-home-lab">Cybersecurity Home Lab</a> |
 | Centralized Log Aggregation & SIEM Investigation (Splunk Enterprise) | <a href="https://github.com/ZOrroryan/cybersecurity-home-lab">Cybersecurity Home Lab</a> |
+| Frontend Web Development (HTML/CSS/JavaScript) | <a href="https://github.com/ZOrroryan/typingwithramo">TypeForge</a> |
+| CI/CD Deployment Automation (GitHub + Netlify) | <a href="https://github.com/ZOrroryan/typingwithramo">TypeForge</a> |
 ---
 
 ## 🛠️ Tools
@@ -71,6 +73,8 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 
 ### 🖥️ Development & Programming
 - Python (Tkinter, event-driven programming)  
+- HTML / CSS / JavaScript (vanilla, DOM manipulation)  
+- Netlify (CI/CD deployment)  
 - Visual Studio Code  
 - Git & GitHub  
 - PowerShell scripting for AD automation  
@@ -103,6 +107,7 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 - <a href="https://github.com/ZOrroryan/Home-Lab-Running-Active-Directory">Home-Lab-Running-Active-Directory</a> 
 - <a href="https://github.com/ZOrroryan/TPM2-Installation-Windows11">TPM2-Installation-Windows11</a> 
 - <a href="https://github.com/ZOrroryan/cybersecurity-home-lab">Cybersecurity Home Lab</a> 
+- <a href="https://github.com/ZOrroryan/typingwithramo">TypeForge</a> — touch-typing curriculum, live at <a href="https://typingwithramo.netlify.app">typingwithramo.netlify.app</a>
 
 ## 🌐 Connect With Me
 - 📧 **omarryan15@gmail.com**  
