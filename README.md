@@ -26,6 +26,11 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 | PowerShell Automation & User Management | <a href="https://github.com/ZOrroryan/Home-Lab-Running-Active-Directory">Home-Lab-Running-Active-Directory</a> |
 | TPM 2.0 Installation & Hardware Troubleshooting | <a href="https://github.com/ZOrroryan/TPM2-Installation-Windows11">TPM2-Installation-Windows11</a> |
 | Windows 11 Upgrade & Security Compliance | <a href="https://github.com/ZOrroryan/TPM2-Installation-Windows11">TPM2-Installation-Windows11</a> |
+| Cisco Network Infrastructure Configuration (Router, Switch, ASA Firewall) | <a href="https://github.com/ZOrroryan/cybersecurity-home-lab">Cybersecurity Home Lab</a> |
+| VLAN Segmentation & Inter-VLAN Routing | <a href="https://github.com/ZOrroryan/cybersecurity-home-lab">Cybersecurity Home Lab</a> |
+| Network Traffic Mirroring (SPAN) & Network Security Monitoring | <a href="https://github.com/ZOrroryan/cybersecurity-home-lab">Cybersecurity Home Lab</a> |
+| Intrusion Detection with Suricata & Zeek | <a href="https://github.com/ZOrroryan/cybersecurity-home-lab">Cybersecurity Home Lab</a> |
+| Centralized Log Aggregation & SIEM Investigation (Splunk Enterprise) | <a href="https://github.com/ZOrroryan/cybersecurity-home-lab">Cybersecurity Home Lab</a> |
 ---
 
 ## 🛠️ Tools
@@ -39,6 +44,10 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 - Network Security Groups (NSG)  
 - DHCP / NAT / RRAS configuration (Windows Server)  
 - Internal network setup for VMs  
+- Cisco IOS (router & switch configuration)  
+- Cisco ASA (firewall, ACLs, NAT, ASDM)  
+- VLAN segmentation & inter-VLAN routing (SVIs)  
+- SPAN port traffic mirroring  
 
 ### 💻 Endpoint
 - Windows Event Viewer  
@@ -48,6 +57,7 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 - Tenable Agents  
 - Windows 10 client administration  
 - BIOS / TPM configuration  
+- Raspberry Pi (Linux security infrastructure nodes)  
 
 ### ☁️ SIEM & Cloud
 - Microsoft Sentinel  
@@ -56,6 +66,8 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 - AWS Lambda  
 - Azure Virtual Machines  
 - Tenable Vulnerability Management (cloud console & scan engine)  
+- Splunk Enterprise (log aggregation & investigation)  
+- Security Onion (Suricata IDS & Zeek NSM)  
 
 ### 🖥️ Development & Programming
 - Python (Tkinter, event-driven programming)  
@@ -90,6 +102,7 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 - <a href="https://github.com/ZOrroryan/tenable-azure-vm-security">Tenable Azure VM Security</a>
 - <a href="https://github.com/ZOrroryan/Home-Lab-Running-Active-Directory">Home-Lab-Running-Active-Directory</a> 
 - <a href="https://github.com/ZOrroryan/TPM2-Installation-Windows11">TPM2-Installation-Windows11</a> 
+- <a href="https://github.com/ZOrroryan/cybersecurity-home-lab">Cybersecurity Home Lab</a> 
 
 ## 🌐 Connect With Me
 - 📧 **omarryan15@gmail.com**  
