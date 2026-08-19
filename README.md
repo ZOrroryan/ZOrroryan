@@ -41,6 +41,8 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 | Serverless Web Application Development (Netlify Functions) | <a href="https://github.com/ZOrroryan/ramoaim-showcase">RamoAim</a> |
 | Stripe Payment Integration | <a href="https://github.com/ZOrroryan/ramoaim-showcase">RamoAim</a> |
 | Desktop Application Packaging (Electron) | <a href="https://github.com/ZOrroryan/ramoaim-showcase">RamoAim</a> |
+| Full-Stack Web App Development (Next.js, Server Actions) | <a href="https://github.com/ZOrroryan/art-marketplace">Atelier</a> |
+| Database Design & Row-Level Security (PostgreSQL/Supabase) | <a href="https://github.com/ZOrroryan/art-marketplace">Atelier</a> |
 ---
 
 ## 🛠️ Tools
@@ -123,6 +125,7 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 - <a href="https://github.com/ZOrroryan/typingwithramo">TypeForge</a> — touch-typing curriculum, live at <a href="https://typingwithramo.netlify.app">typingwithramo.netlify.app</a>
 - <a href="https://github.com/ZOrroryan/ilmquest-showcase">IlmQuest</a> — Islamic learning & trivia app (Flutter/Firebase); full source is private, linked page has documentation and screenshots
 - <a href="https://github.com/ZOrroryan/ramoaim-showcase">RamoAim</a> — live aim-training web game at <a href="https://ram-aim.cybermar8.com">ram-aim.cybermar8.com</a>; full source is private, linked page has documentation and screenshots
+- <a href="https://github.com/ZOrroryan/art-marketplace">Atelier</a> — contact-only art marketplace for independent artists (Next.js + Supabase, Postgres RLS); live at <a href="https://atelier-art-marketplace.netlify.app">atelier-art-marketplace.netlify.app</a>
 
 ## 🌐 Connect With Me
 - 🖥️ [cybermar8.com](https://cybermar8.com) — portfolio site
